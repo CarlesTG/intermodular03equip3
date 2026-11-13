@@ -11,4 +11,4 @@ Se incluirà una imagen y la sinopsis de la serie, ademas de un enlace a su imdb
 <p>Breaking Bad, https://www.imdb.com/es-es/title/tt0903747/</p>
 <p>Avatar: La leyenda de Aang, https://www.imdb.com/es-es/title/tt0417299/</p>
 <p>Stranger Things, https://www.imdb.com/es-es/title/tt4574334/?reasonForLanguagePrompt=browser_header_mismatch</p>
-<p>Juego de tronos, Juego de tronos</p>
+<p>Juego de tronos, https://www.imdb.com/es-es/title/tt0944947/</p>
